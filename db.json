@@ -48,20 +48,23 @@
       "status": "authorized"
     }
   ],
-  "log": [
-    "accesskey": "12345678901234567890123456789012345678901234",
-    "steps": [
-      {
-      "id": "1",
-      "text": "Log text 1"
-      },
-      {
-      "id": "2",
-      "text": "Log text 2"
-      },
-      {
-      "id": "3",
-      "text": "Log text 3"
-      }
+  "log": 
+  [
+    {
+     "accesskey": "12345678901234567890123456789012345678901234",
+     "steps": 
+      [
+        {
+          "id": "1",
+          "text": "Log text 1"
+        },{
+          "id": "2",
+          "text": "Log text 2"
+        },{
+          "id": "3",
+          "text": "Log text 3"
+        } 
+      ]
+    }
   ]
 }
